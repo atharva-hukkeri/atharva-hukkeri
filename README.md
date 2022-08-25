@@ -21,7 +21,7 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 
 <p align="center">
   <a href="https://www.instagram.com/invincible_atharva_hukkeri/" target="blank">
-    <img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="instagram" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atharva-hukkeri-727037218/" target="blank">
     <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" alt="linkedin" height="30" width="30" />
