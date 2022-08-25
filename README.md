@@ -7,7 +7,7 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=atharva-hukkeri&color=FAC151) <br>
 
-### Github statistics
+## Github statistics
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-hukkeri&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-hukkeri&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />
@@ -15,5 +15,13 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharva-hukkeri)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Social
 
+### `Want to get in touch?`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-hukkeri-727037218/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
 
