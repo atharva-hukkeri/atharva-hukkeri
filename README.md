@@ -10,7 +10,7 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 ## Github statistics
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-hukkeri&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-hukkeri&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-hukkeri&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-hukkeri&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="atharva-hukkeri" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharva-hukkeri)](https://github.com/ryo-ma/github-profile-trophy)
