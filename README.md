@@ -15,7 +15,7 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atharva-hukkeri)](https://github.com/ryo-ma/github-profile-trophy)
 
-<! -- ![atharva-hukkeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-hukkeri&show_icons=true&theme=radical) -->
+<! --- ![atharva-hukkeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-hukkeri&show_icons=true&theme=radical) --->
 ## Social
 
 ### `Want to get in touch?`
