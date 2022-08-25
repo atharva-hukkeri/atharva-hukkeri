@@ -21,7 +21,7 @@ I am a student pursuing my Bachelor of Engineering in Computer Science & Enginee
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-hukkeri-727037218/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" style="color:white"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
