@@ -1,7 +1,8 @@
 # Hi👋, I'm Atharva Dayanand Hukkeri <br>
 
-🙋‍♂️About Me<br>
-I am a student pursuing my Bachelor of Engineering in Computer Science & Engineering through Savitribai Phule Pune University.
+## About Me<br>
+
+🙋‍I am a student pursuing my Bachelor of Engineering in Computer Science & Engineering through Savitribai Phule Pune University.
 
 🚀I'm intrigued by artificial intelligence and machine learning, and I'm eager to learn more about them.<br>
 
