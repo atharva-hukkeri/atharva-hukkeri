@@ -31,7 +31,7 @@
     <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" alt="linkedin" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/atharvahukkeri/" target="blank">
-    <img align="center" src="[https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png](https://iconscout.com/icon/hackerrank-3521478)" alt="Hackerrank" height="30" width="30" />
+    <img align="center" src="https://iconscout.com/icon/hackerrank-3521478" alt="Hackerrank" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
