@@ -2,7 +2,7 @@
 
 ## About Me<br>
 
-🙋‍I am a student pursuing my Bachelor of Engineering in Computer Science & Engineering through Savitribai Phule Pune University.
+🙋‍I am a student who has completed his Bachelor of Engineering in Computer Science & Engineering with Honours in Data Science through Savitribai Phule Pune University.
 
 🚀I'm intrigued by artificial intelligence and machine learning, and I'm eager to learn more about them.<br>
 
