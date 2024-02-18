@@ -35,7 +35,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   </a>&nbsp;&nbsp;&nbsp; 
     <a href="https://leetcode.com/atharvahukkeri/" target="blank">
-    <img align="center" src="[https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png](https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png)https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" alt="LeetCode" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
