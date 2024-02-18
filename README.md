@@ -33,5 +33,9 @@
     <a href="https://www.hackerrank.com/atharvahukkeri/" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTergvoo0e_gRDYlkCwAaZ7uvsy6SZApCAO1JPcDBs83Q&s" alt="Hackerrank" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/atharvahukkeri/" target="blank">
+    <img align="center" src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" alt="LeetCode" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
